@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ihibaeki.github.io/Bjg/sitemap_index.txt
+Sitemap: https://ihibaeki.github.io/GAk/sitemap_index.txt
+Sitemap: https://ihibaeki.github.io/ONk/sitemap_index.txt
+Sitemap: https://ihibaeki.github.io/ewr/sitemap_index.txt
